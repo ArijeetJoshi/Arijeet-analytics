@@ -1,0 +1,46 @@
+body { 
+    
+    color: limegreen;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  .picMiddle{
+    float:center;
+    margin-left: 400px;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(82, 156, 185);
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 27px;
+    text-decoration: none;
+    float: left;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  nav {
+    font-size: 30px;
+  }
+
+  h1{
+    text-align: center;
+    font-size: 34px;
+  }
+
+  p {
+    font-size: 20px;
+  }
+
